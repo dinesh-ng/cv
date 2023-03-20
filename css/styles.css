@@ -87,6 +87,11 @@ a:hover {
   margin: 100px auto 100px auto;
   text-align: left;
 }
+.skill-row:hover {
+  background-color: #09e8d37d;
+  padding: 50px;
+  border-radius: 10px;
+}
 .middle-container {
   margin-bottom: 50px;
   margin: 100px auto 100px auto;
